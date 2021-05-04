@@ -17,7 +17,7 @@ public class Main {
 		gamer1.setId(1);
 		gamer1.setFirstName("Abdussamet");
 		gamer1.setLastName("Doğan");
-		gamer1.setNationalityId("41299375134");
+		gamer1.setNationalityId("12345678910");
 		gamer1.setYearOfBirth(1998);
 		gamer1.setNickName("RAMMUS53");
 
