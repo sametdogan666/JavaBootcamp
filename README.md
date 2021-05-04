@@ -22,7 +22,7 @@ Today, the foundations of Object Oriented Programming in Java were laid.
 
 --- Lesson 3 ---
 
-This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/ef27945030e62d35905b83b9d1147f7d0b015d05
+This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/08e255b211e2330bf11fbd2eab17fc86a371ec69
 
 Files added to this course : (inheritance - inheritance2 - lesson3HomeWork1)
 
