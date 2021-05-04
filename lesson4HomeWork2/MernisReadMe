@@ -1,8 +1,0 @@
-The package javax.xml.namespace is accessible from more than one module: <unnamed>, java.xml 
-
-Yukarıda yazdığım hatayı alan arkadaşlar projelerine JRE System Library [JavaSE-1.8] eklemesi yapsın.
-
-Bu eklemeyi şu şekilde yapabilirsiniz:
-src üzerinde sağ tıklayıp --> build path --> configure build path --> libraries --> add library adımlarını izlesin.
-add library dedikten sonra açılan pencerede JRE System Library'e tıklayarak Next diyoruz. Burdan tik işaretini Execution environment üzerine getirip buradan açılır 
-barda JavaSE-1.8(jre) yi seçip finish diyoruz.
