@@ -36,3 +36,12 @@ This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/t
 Files added to this course : (interfaces - lesson4HomeWork2 - lesson4HomeWork3)
 
 Today, information was given about the interface and a small game simulation task was given.
+
+
+--- Lesson 5 ---
+
+This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/b24d73302bad6ef972cc0fba23295bc926940d93
+
+Files added to this course : (nLayeredDemo)
+
+Today, the basics of layered architecture were explained and how external services should be added to the project were shown.
