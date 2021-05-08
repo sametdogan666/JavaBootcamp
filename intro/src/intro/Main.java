@@ -8,7 +8,7 @@ public class Main {
 		String internetSubeButonu = "İnternet Şubeye gir";
 		double dolarDun = 8.15;
 		double dolarBugun = 8.30;
-		int vade = 36;
+		//int vade = 36;
 
 		System.out.println(internetSubeButonu);
 
