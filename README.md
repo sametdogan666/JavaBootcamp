@@ -49,9 +49,9 @@ Today, the basics of layered architecture were explained and how external servic
 
 --- Lesson 6 ---
 
-This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/7af391a11d968c1a995abebda4423bf09f9c63fe
+This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/a2192ceb2a32cc59ec0aa67989b58e8cdfaa2bd1
 
-Files added to this course : (nLayeredDemo - lesson5HomeWork1)
+Files added to this course : (northwind)
 
-Today, the basics of layered architecture were explained and how external services should be added to the project were shown.
+The description will be added later.
 
