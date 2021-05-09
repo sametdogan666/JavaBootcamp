@@ -40,8 +40,18 @@ Today, information was given about the interface and a small game simulation tas
 
 --- Lesson 5 ---
 
-This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/b24d73302bad6ef972cc0fba23295bc926940d93
+This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/7af391a11d968c1a995abebda4423bf09f9c63fe
 
-Files added to this course : (nLayeredDemo)
+Files added to this course : (nLayeredDemo - lesson5HomeWork1)
 
 Today, the basics of layered architecture were explained and how external services should be added to the project were shown.
+
+
+--- Lesson 6 ---
+
+This project's code sources here : https://github.com/sametdoqann/JavaBootcamp/tree/7af391a11d968c1a995abebda4423bf09f9c63fe
+
+Files added to this course : (nLayeredDemo - lesson5HomeWork1)
+
+Today, the basics of layered architecture were explained and how external services should be added to the project were shown.
+
